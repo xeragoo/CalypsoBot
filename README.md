@@ -11,7 +11,7 @@
 
 <div align=center>
 
-  <a href="https://discord.gg/pnYVdut">
+  <a href="https://discord.gg/5uYmJkEfUV">
     <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
   </a>
 
